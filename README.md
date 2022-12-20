@@ -8,6 +8,6 @@ With these points in mind, in this challenge you’ll set yourself up for future
 
 
 ### Link
-<a href="https://sinthiya1.github.io/CSS-Snippet-Cheatsheet/">Portfolio Website</a>
+<a href="https://sinthiya1.github.io/Portfolio-Sinthiya/">Portfolio Website</a>
 
 
